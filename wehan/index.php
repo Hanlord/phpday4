@@ -71,7 +71,7 @@ if (mysqli_num_rows($result) > 0) {
             </button>
             <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <h1 class="text-center animate__animated animate__bounce">&ensp;Master Delicious Dishes</h1>
+                    <h1 class="text-center animate__animated animate__fadeInLeft">&ensp;Master Delicious Dishes</h1>
                 </div>
             </div>
         </div>
