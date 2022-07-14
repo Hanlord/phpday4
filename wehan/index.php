@@ -69,7 +69,7 @@ if (mysqli_num_rows($result) > 0) {
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <h1 class="text-center animate__animated animate__bounce">&ensp;Master Delicious Dishes</h1>
                 </div>
